@@ -6,6 +6,7 @@ I followed Dortania guide which made the process fairly straightforwards.
 Also,thanks to u/aleelmaitro on Reddit for information on getting RX550 lexa working
 https://www.reddit.com/r/hackintosh/comments/tdz65y/rx_550_lexa/
 
+Note: Will need to fill in info from GenSMBIOS prior to booting this.
 
 My specifications
 intel i7-8700 processor (should work on 8th gen i3,i5,i7)
