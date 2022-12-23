@@ -1,6 +1,6 @@
 HP 600 G4 SFF
 EFI intended to be used for macOS 12, I believe it would work for macOS 11->13, however it was tested on 12.
-I followed Dortania guide which made the process fairly straightforwards.
+I followed Dortania guide which made the process fairly straightforward.
 
 
 Also,thanks to u/aleelmaitro on Reddit for information on getting RX550 lexa working
