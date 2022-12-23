@@ -16,16 +16,16 @@ No wifi card (can be added with relevant kext)
 
 Versions:
 
-Opencore		   0.8.3
+Opencore       0.8.3
 
 Kexts
-AppleALC		   1.7.4
+AppleALC       1.7.4
 WhateverGreen  1.6.2
-Lilu 			     1.6.2
-VirtualSMC		 1.3.0
-IntelMausi		 1.0.7
-BlueToolFixup	 2.6.3 (for BT400 to work)
-USBToolBox		 1.1.1
+Lilu           1.6.2
+VirtualSMC     1.3.0
+IntelMausi     1.0.7
+BlueToolFixup  2.6.3 (for BT400 to work)
+USBToolBox     1.1.1
 UTBMap
 
 Problems
