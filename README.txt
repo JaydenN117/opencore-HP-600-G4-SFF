@@ -31,5 +31,6 @@ UTBMap
 
 Problems
 RTC post error on every boot
+Graphical bugs when using hardware acceleration on some apps
 
 If anyone has any suggestions on how to fix I would appreciate them!
