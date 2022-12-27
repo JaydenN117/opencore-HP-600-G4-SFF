@@ -1,5 +1,5 @@
 HP 600 G4 SFF
-EFI intended to be used for macOS 12, I believe it would work for macOS 11->13, however it was tested on 12.
+EFI tested on macOS 12,13, I believe it would also work on 11.
 I followed Dortania guide which made the process fairly straightforward.
 
 
