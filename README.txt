@@ -1,4 +1,4 @@
-HP 600 G4 SFF
+HP 600 G4 SFF INTEGRATED GRAPHICS VERSION
 EFI tested on macOS 12,13, I believe it would also work on 11.
 I followed Dortania guide which made the process fairly straightforward.
 
@@ -27,3 +27,4 @@ UTBMap
 
 Problems
 Still need to test this exact configuration, but previously had issues with only one monitor working.
+RTC error
