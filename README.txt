@@ -3,14 +3,10 @@ EFI tested on macOS 12,13, I believe it would also work on 11.
 I followed Dortania guide which made the process fairly straightforward.
 
 
-Also,thanks to u/aleelmaitro on Reddit for information on getting RX550 lexa working
-https://www.reddit.com/r/hackintosh/comments/tdz65y/rx_550_lexa/
-
 Note: Will need to fill in info from GenSMBIOS prior to booting this.
 
 My specifications
 intel i7-8700 processor (should work on 8th gen i3,i5,i7)
-Dell AMD RX550 4gb (device ID: 699F)
 SATA SSD (Can do M.2 need NVMEFix kext)
 ASUS BT400 bluetooth module
 No wifi card (can be added with relevant kext)
@@ -30,7 +26,4 @@ USBToolBox     1.1.1
 UTBMap
 
 Problems
-RTC post error on every boot
-Graphical bugs when using hardware acceleration on some apps
-
-If anyone has any suggestions on how to fix I would appreciate them!
+Still need to test this exact configuration, but previously had issues with only one monitor working.
